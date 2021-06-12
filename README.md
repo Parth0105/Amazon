@@ -1,3 +1,5 @@
+# Deployment Link
+   https://parth0105.github.io/Amazon/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
